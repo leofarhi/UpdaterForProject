@@ -1,4 +1,4 @@
 
-<Version: 1.0>
+<Version: 1.01>
 /data/Map004.json https://raw.githubusercontent.com/leofarhi/UpdaterForProject/master/Map004.json
 <End of Version>
