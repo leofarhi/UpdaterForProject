@@ -1,4 +1,8 @@
 
-<Version: 1.01>
-/data/Map004.json https://raw.githubusercontent.com/leofarhi/UpdaterForProject/master/Map004.json
+<Version: 1.02>
+/data/Map001.json https://raw.githubusercontent.com/leofarhi/UpdaterForProject/master/data/Map001.json
+/data/Map002.json https://raw.githubusercontent.com/leofarhi/UpdaterForProject/master/data/Map002.json
+/data/Map003.json https://raw.githubusercontent.com/leofarhi/UpdaterForProject/master/data/Map003.json
+/data/Map004.json https://raw.githubusercontent.com/leofarhi/UpdaterForProject/master/data/Map004.json
+/data/Map005.json https://raw.githubusercontent.com/leofarhi/UpdaterForProject/master/data/Map005.json
 <End of Version>
