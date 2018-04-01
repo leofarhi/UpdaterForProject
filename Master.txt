@@ -1,5 +1,5 @@
 
-<Version: 1.02>
+<Version: 1.01>
 /data/Map001.json https://raw.githubusercontent.com/leofarhi/UpdaterForProject/master/data/Map001.json
 /data/Map002.json https://raw.githubusercontent.com/leofarhi/UpdaterForProject/master/data/Map002.json
 /data/Map003.json https://raw.githubusercontent.com/leofarhi/UpdaterForProject/master/data/Map003.json
